@@ -1,0 +1,142 @@
+
+
+
+.a{
+    color: #bd8cbf;
+    font-size: 20px;
+    font-weight: 900;
+}
+.a:hover{
+    color: black;
+}
+.b{
+    color: #bd8cbf;
+    font-weight: 600;
+    font-size: 12px;
+}
+.b:hover{
+    color: black;  
+}
+body{
+    width: 100%;
+    /* height: 100vh; */
+}
+
+.about{
+    width: 100%;
+    height: 700px;
+    /* background-color: #bd8cbf; */
+}
+.qqq{
+    color: black;
+    font-size: 50px;
+    font-weight: 900;
+}
+.li{
+    font-size: 25;
+    font-weight: 700;
+}
+
+.bu{
+    background-color:#bd8cbf ;
+    color: white;
+    width: 100px;
+    border: white;
+    border-radius: 5%;
+}
+.bu:hover{
+    background-color: white;
+    color: #bd8cbf;
+    border: 1px solid #bd8cbf ;
+}
+.gall{
+    /* width: 100%; */
+    /* height: 700hv; */
+    background-color:black ;
+}
+.h2{
+  
+    color: black;
+  text-align: center;
+font-size: 50px;
+    font-weight: 900;
+    /* border: 1px solid #bd8cbf; */
+    
+}
+.h2 .h22{
+    color: #bd8cbf;
+    font-size: 70px;
+
+}
+.pp{
+    width: 30%;
+
+}
+.cotact{
+    width: 100%;
+    height: 700hv;
+    /* background-color:black ; */
+}
+.foo{
+    background-color:#bd8cbf ;
+    width: 100%;
+    /* height: 50; */
+    color: white;
+}
+
+.navc{
+    background-color:white ;
+    color: black;
+    
+}
+.navc :hover{
+    background-color:#bd8cbf ;
+    color: white;
+    
+}
+.navc :active{
+    background-color:#bd8cbf ;
+    color: white;
+    
+}
+.la{
+    width: 5%;
+    height: 30px;
+    display: flex;
+    
+}
+.sa {
+    width: 100%;
+    
+
+}
+.sa img{
+    width: 30px;
+}
+.icons{
+    padding-left: 80%;
+}
+.pages{
+    background-color: black;
+   width: 50%;
+   border-radius: 10px 10px;
+   margin:auto;
+   border: black;
+}
+.pages li a{
+    color:#bd8cbf ;
+   
+    
+    /* border:  50px white; */
+    font-size: 25px;
+    font-weight: 500;
+    padding-left: 30px;
+    margin: 0px 60px  0% 60px ;
+    /* padding-right: 30px; */
+    
+}
+
+.imgg{
+    border-radius: 20px;
+    height: 250px;
+}
